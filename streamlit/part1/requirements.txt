@@ -1,0 +1,6 @@
+snowflake-sqlalchemy==1.4.6
+streamlit==1.18.1
+pandas==1.5.3
+numpy==1.24.2
+pyarrow==10.0.1
+snowflake-connector-python

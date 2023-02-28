@@ -25,3 +25,5 @@ st.write("""
 ## Volume Price
 """)
 st.line_chart(tickerDf.Volume)
+st.write(tickerDf)
+st.line_chart(tickerDf[['Open','High','Low','Close']])

@@ -1,0 +1,25 @@
+﻿Machine,Time,Availability,Performance,Quality,OEE,Reject Reason,Scheduled Units,Actual Units,Good Units,Scrap Units,Reason code Availability,Reason Code Perf,Reason Code Quality,Reason Code,Brand,Location,Product,Division,Product Line,Assembly Line,Automation Maturity
+H4,08:00,76,65,61,61,4,120,80,76,4,Electrical Breakdown Laser,Labelling,Lifted Value,2,Potomac,Nashville,Clementine,Powetrain,CEM_2501,Assembly Line 5,Medium
+H4,09:00,90,61,77,77,2,120,118,116,2,Electrical Breakdown Laser,Labelling,Lifted Value,2,Potomac,Nashville,Clementine,Powetrain,CEM_2501,Assembly Line 5,Medium
+H4,10:00,68,70,89,89,4,90,88,84,4,Mechanical Breakdown Valve,Emergency Stop,Tight Wire Loop,4,Potomac,Nashville,Clementine,Powetrain,CEM_2501,Assembly Line 5,Medium
+H4,11:00,39,95,31,31,2,120,118,116,2,Mechanical Breakdown Valve,Emergency Stop,Tight Wire Loop,4,Potomac,Nashville,Clementine,Powetrain,CEM_2501,Assembly Line 5,Medium
+H4,12:00,53,42,76,76,2,60,60,58,2,Robot Program Error,Proxy Sensor Error,Proxy Sensor Error,4,Potomac,Nashville,Clementine,Powetrain,CEM_2501,Assembly Line 5,Medium
+H4,13:00,32,45,65,65,2,120,110,106,4,Robot Program Error,Proxy Sensor Error,Proxy Sensor Error,4,Potomac,Nashville,Clementine,Powetrain,CEM_2501,Assembly Line 5,Medium
+H4,14:00,55,51,91,95,4,90,84,82,2,Operator Away,Opened/Exposed Lead Cap,Laser Top Damage,2,Potomac,Nashville,Clementine,Powetrain,CEM_2501,Assembly Line 5,Medium
+H4,15:00,48,69,73,48,4,120,116,112,4,Operator Away,Opened/Exposed Lead Cap,Laser Top Damage,2,Potomac,Nashville,Clementine,Powetrain,CEM_2501,Assembly Line 5,Medium
+H5,08:00,90,51,91,91,4,120,118,116,2,Robot Program Error,Emergency Stop,Non Stick Bond on Die Pad,2,Potomac,Nashville,Clementine,Powetrain,CEM_2501,Assembly Line 5,Medium
+H5,09:00,55,69,73,73,2,120,118,116,2,Robot Program Error,Emergency Stop,Non Stick Bond on Die Pad,2,Potomac,Nashville,Clementine,Powetrain,CEM_2501,Assembly Line 5,Medium
+H5,10:00,48,87,95,95,2,90,88,84,4,Robot Program Error,Proxy Sensor Error,Proxy Sensor Error,4,Potomac,Nashville,Clementine,Powetrain,CEM_2501,Assembly Line 5,Medium
+H5,11:00,84,81,48,48,2,120,60,54,6,Robot Program Error,Proxy Sensor Error,Proxy Sensor Error,4,Potomac,Nashville,Clementine,Powetrain,CEM_2501,Assembly Line 5,Medium
+H5,12:00,94,78,32,32,2,60,60,58,2,Mechanical Breakdown Valve,Labelling,Laser Top Damage,4,Potomac,Nashville,Clementine,Powetrain,CEM_2501,Assembly Line 5,Medium
+H5,13:00,32,40,43,43,4,120,110,106,4,Mechanical Breakdown Valve,Labelling,Laser Top Damage,4,Potomac,Nashville,Clementine,Powetrain,CEM_2501,Assembly Line 5,Medium
+H5,14:00,76,74,87,87,4,90,84,82,2,Electrical Breakdown Laser,Emergency Stop,Proxy Sensor Error,2,Potomac,Nashville,Clementine,Powetrain,CEM_2501,Assembly Line 5,Medium
+H5,15:00,43,36,44,44,2,120,116,112,4,Electrical Breakdown Laser,Emergency Stop,Proxy Sensor Error,2,Potomac,Nashville,Clementine,Powetrain,CEM_2501,Assembly Line 5,Medium
+H6,08:00,31,51,34,34,2,120,118,116,2,Mechanical Breakdown Valve,Proxy Sensor Error,Laser Top Damage,2,Potomac,Nashville,Clementine,Powetrain,CEM_2501,Assembly Line 5,Medium
+H6,09:00,68,63,36,36,2,120,0,0,0,Mechanical Breakdown Valve,Proxy Sensor Error,Laser Top Damage,2,Potomac,Nashville,Clementine,Powetrain,CEM_2501,Assembly Line 5,Medium
+H6,10:00,70,87,75,75,2,90,88,84,4,Mechanical Breakdown Valve,Opened/Exposed Lead Cap,Lifted Value,4,Potomac,Nashville,Clementine,Powetrain,CEM_2501,Assembly Line 5,Medium
+H6,11:00,55,80,95,95,2,120,116,114,2,Mechanical Breakdown Valve,Opened/Exposed Lead Cap,Lifted Value,4,Potomac,Nashville,Clementine,Powetrain,CEM_2501,Assembly Line 5,Medium
+H6,12:00,76,74,87,87,4,60,58,52,6,Electrical Breakdown Laser,Labelling,Tight Wire Loop,4,Potomac,Nashville,Clementine,Powetrain,CEM_2501,Assembly Line 5,Medium
+H6,13:00,43,36,44,44,2,120,110,106,4,Electrical Breakdown Laser,Labelling,Tight Wire Loop,4,Potomac,Nashville,Clementine,Powetrain,CEM_2501,Assembly Line 5,Medium
+H6,14:00,71,43,76,76,4,90,84,82,2,Robot Program Error,Emergency Stop,Laser Top Damage,2,Potomac,Nashville,Clementine,Powetrain,CEM_2501,Assembly Line 5,Medium
+H6,15:00,90,30,67,67,2,120,56,52,4,Robot Program Error,Emergency Stop,Laser Top Damage,2,Potomac,Nashville,Clementine,Powetrain,CEM_2501,Assembly Line 5,Medium

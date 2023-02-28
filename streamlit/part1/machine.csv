@@ -1,0 +1,25 @@
+﻿Machine,Time,Availability,Performance,Downtime,Brand,Location,Product,Division,Product Line,Assembly Line,Automation Maturity
+M1,08:00,76,65,61,Potomac,Nashville,Clementine,Powetrain,CEM_2501,Assembly Line 5,Medium
+M1,09:00,90,61,77,Potomac,Nashville,Clementine,Powetrain,CEM_2501,Assembly Line 5,Medium
+M1,10:00,68,70,89,Potomac,Nashville,Clementine,Powetrain,CEM_2501,Assembly Line 5,Medium
+M1,11:00,39,95,31,Potomac,Nashville,Clementine,Powetrain,CEM_2501,Assembly Line 5,Medium
+M1,12:00,53,42,76,Potomac,Nashville,Clementine,Powetrain,CEM_2501,Assembly Line 5,Medium
+M1,13:00,32,45,65,Potomac,Nashville,Clementine,Powetrain,CEM_2501,Assembly Line 5,Medium
+M2,08:00,90,51,91,Potomac,Nashville,Clementine,Powetrain,CEM_2501,Assembly Line 5,Medium
+M2,09:00,55,69,73,Potomac,Nashville,Clementine,Powetrain,CEM_2501,Assembly Line 5,Medium
+M2,10:00,48,87,95,Potomac,Nashville,Clementine,Powetrain,CEM_2501,Assembly Line 5,Medium
+M2,11:00,84,81,48,Potomac,Nashville,Clementine,Powetrain,CEM_2501,Assembly Line 5,Medium
+M2,12:00,94,78,32,Potomac,Nashville,Clementine,Powetrain,CEM_2501,Assembly Line 5,Medium
+M2,13:00,32,40,43,Potomac,Nashville,Clementine,Powetrain,CEM_2501,Assembly Line 5,Medium
+M3,08:00,31,51,34,Potomac,Nashville,Clementine,Powetrain,CEM_2501,Assembly Line 5,Medium
+M3,09:00,68,63,36,Potomac,Nashville,Clementine,Powetrain,CEM_2501,Assembly Line 5,Medium
+M3,10:00,70,87,75,Potomac,Nashville,Clementine,Powetrain,CEM_2501,Assembly Line 5,Medium
+M3,11:00,55,80,95,Potomac,Nashville,Clementine,Powetrain,CEM_2501,Assembly Line 5,Medium
+M3,12:00,76,74,87,Potomac,Nashville,Clementine,Powetrain,CEM_2501,Assembly Line 5,Medium
+M3,13:00,43,36,44,Potomac,Nashville,Clementine,Powetrain,CEM_2501,Assembly Line 5,Medium
+M4,08:00,57,77,72,Potomac,Nashville,Clementine,Powetrain,CEM_2501,Assembly Line 5,Medium
+M4,09:00,37,66,44,Potomac,Nashville,Clementine,Powetrain,CEM_2501,Assembly Line 5,Medium
+M4,10:00,37,30,40,Potomac,Nashville,Clementine,Powetrain,CEM_2501,Assembly Line 5,Medium
+M4,11:00,71,43,76,Potomac,Nashville,Clementine,Powetrain,CEM_2501,Assembly Line 5,Medium
+M4,12:00,90,30,67,Potomac,Nashville,Clementine,Powetrain,CEM_2501,Assembly Line 5,Medium
+M4,13:00,82,64,67,Potomac,Nashville,Clementine,Powetrain,CEM_2501,Assembly Line 5,Medium
